@@ -1,7 +1,11 @@
 # TASK 7
 
 1. Write a function named myFilter() for Array, Dictionary(by keys), Set.
+<<<<<<< HEAD
 Do not use native filter. 
+=======
+Do not use native filter.
+>>>>>>> a6d84b0 (first commit)
 
 2. Write a function named myMap() for Array, Dictionary(by values), Set.
 Do not use native map.
@@ -14,11 +18,19 @@ myFlatMap ignores nil and map nested collections to single.
 Do not use native flatMap.
 
 5. Write a function named myEvery for Array, Dictionary(by values), Set. The function checks all elements by condition. If condition is true for all element, then return true, else return false.
+<<<<<<< HEAD
 It works like __AND__ condition operation
+=======
+It works like __AND__ condition operation.
+>>>>>>> a6d84b0 (first commit)
 
 6. Write a function named mySome for Array, Dictionary(by values), Set. The function checks all elements by condition. If condition is false for all element, then return false, else return true.
 It works like __OR__ condition operation.
 
 7. Write a function named myChain() for Array, Dictionary(by values), Set. Chaining = myFlatMap + myFilter + myMap + myReduce.
 
+<<<<<<< HEAD
 8. Try to implement [Church Numerals](https://en.wikipedia.org/wiki/Church_encoding); in Swift.
+=======
+8. Try to implement [Church Numerals](https://en.wikipedia.org/wiki/Church_encoding); in Swift.
+>>>>>>> a6d84b0 (first commit)
