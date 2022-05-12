@@ -11,8 +11,7 @@ class Appliation {
 //    If you can cook bacon and eggs print you can cook bacon and eggs.
 //    If you need to throw out any ingredients for each one print a line with the text throw out _ingredient_ (where _ingredient_ is bacon or eggs) in any order.
     
-    let unfitBecon = 7
-    let unfitEggs  = 21
+  
     func problem1(_ becon: Int,_ egg: Int) {
         
         if becon > 7 && egg > 21 {
