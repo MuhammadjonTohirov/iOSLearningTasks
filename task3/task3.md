@@ -193,7 +193,7 @@ INPUT:
 ```swift
 	var number = 24
 ```
-OUTPUT:
+OUTPUT:1
 ```swift
 24 = 2 * 2 * 2 * 3
 ```

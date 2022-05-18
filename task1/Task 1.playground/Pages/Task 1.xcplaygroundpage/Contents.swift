@@ -292,8 +292,8 @@ class Appliation {
 //    ```
     
     func problem9(mealCost: Double, tip: Int) -> Double {
-        var tipCost = mealCost * Double(tip) / 100.0
-        var totalCost = mealCost + tipCost
+        let tipCost = mealCost * Double(tip) / 100.0
+        let totalCost = mealCost + tipCost
         return totalCost
     }
     
@@ -304,8 +304,8 @@ class Appliation {
 //         > Do not use native round!
     
     func problem10(number: Double) -> Double{
-        var intNumber = Int(number * 10.0)
-        var roundedNumber = Double(intNumber) / 10.0
+        let intNumber = Int(number * 10.0)
+        let roundedNumber = Double(intNumber) / 10.0
         return roundedNumber
     }
     
@@ -337,7 +337,7 @@ class Appliation {
 //   ```
     
     func problem11(numberOfFields: Int, wheatYield: Double) -> Double {
-        var weatherWasGood = true
+        let weatherWasGood = true
         var totalYield = Double(numberOfFields) * wheatYield
         if (weatherWasGood == true) {
             totalYield = totalYield * 1.5
@@ -353,7 +353,9 @@ class Appliation {
     
 
 let app = Appliation()
-app.problem11(numberOfFields: 5, wheatYield: 7.5)
+
+ 
+ 
  
  
  

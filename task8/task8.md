@@ -15,8 +15,4 @@ Add an __armor__ property to the target protocol and reduce the damage taken by 
 
 7. Implement a __matrix__ structure with generics.
 
-<<<<<<< HEAD
 8. Implement a __chessboard__ class.
-=======
-8. Implement a __chessboard__ class.
->>>>>>> a6d84b0 (first commit)

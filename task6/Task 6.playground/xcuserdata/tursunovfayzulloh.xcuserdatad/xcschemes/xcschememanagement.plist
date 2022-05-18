@@ -11,7 +11,14 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Task 2 (Playground).xcscheme</key>
+		<key>Task 5 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Task 6 (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
